@@ -1,6 +1,6 @@
 To push into git:
 Open anaconda powershell 
-makes sure you enter python_class directory
+makes sure you enter python_class directory using cd and then directory address
 type following comands:
 git add .
 git commit -m "Comment"
